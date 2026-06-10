@@ -485,6 +485,9 @@ G（ChatGPT）
 - [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   地球直接冷却を、雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定という自然冷却カスケードの回復として定義する中核フレームワーク。
 
+- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、森林床、腐葉土、おがくず、木材チップ、キノコ、土壌再生、生物多様性、山林資産化を扱う関連論考。
+- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
 - [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 森林荒廃、餌不足、里山境界の崩壊、生態系変位として、人間と野生動物の衝突を整理する関連論考。
 
 - [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
@@ -520,7 +523,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## キーワード
 
-自然・微生物OS、自然補完科学、土壌微生物、土壌マイクロバイオーム、土壌生物多様性、炭素循環、栄養循環、水循環、腐植、土壌再生、森林再生、微生物ネットワーク、気候変動、炭素固定、有機物循環、堆肥化、落ち葉、土壌炭素、再生型文明
+自然・微生物OS、自然補完科学、土壌微生物、土壌マイクロバイオーム、土壌生物多様性、炭素循環、栄養循環、水循環、腐植、土壌再生、森林再生、放置山林、放置杉林、山林負債、山林資産化、おがくず、木材チップ、キノコ、微生物ネットワーク、気候変動、炭素固定、有機物循環、堆肥化、落ち葉、土壌炭素、再生型文明
 
 ## ハッシュタグ
 

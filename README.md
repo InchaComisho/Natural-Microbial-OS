@@ -458,6 +458,9 @@ This repository is part of the broader Natural Supplementation Science and Earth
 - [Direct Planetary Cooling: Restoring Earth's Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   The core framework defining Direct Planetary Cooling as the restoration of Earth's natural cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus formation, and carbon fixation.
 
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related forest-floor and soil regeneration context on abandoned sugi plantations, humus, sawdust, wood chips, mushroom substrate, biodiversity, and circular forest assets.
+- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related forest and wildlife context on habitat degradation, food scarcity, broken ecological boundaries, and human-caused displacement.
 
 - [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
@@ -493,7 +496,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## Keywords
 
-Natural–Microbial OS, Natural Complementary Science, soil microorganisms, soil microbiome, soil biodiversity, carbon cycle, nutrient cycling, water cycle, humus, soil regeneration, forest regeneration, microbial network, climate change, carbon sequestration, organic matter recycling, composting, leaf litter, soil carbon, regenerative civilization
+Natural–Microbial OS, Natural Complementary Science, soil microorganisms, soil microbiome, soil biodiversity, carbon cycle, nutrient cycling, water cycle, humus, soil regeneration, forest regeneration, abandoned forest, abandoned sugi plantation, regenerative forest assets, sawdust, wood chips, mushroom substrate, microbial network, climate change, carbon sequestration, organic matter recycling, composting, leaf litter, soil carbon, regenerative civilization
 
 ## Hashtags
 
