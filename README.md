@@ -458,6 +458,8 @@ This repository is part of the broader Natural Supplementation Science and Earth
 - [Direct Planetary Cooling: Restoring Earth's Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   The core framework defining Direct Planetary Cooling as the restoration of Earth's natural cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus formation, and carbon fixation.
 
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related forest and wildlife context on habitat degradation, food scarcity, broken ecological boundaries, and human-caused displacement.
+
 - [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---

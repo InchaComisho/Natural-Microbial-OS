@@ -485,6 +485,8 @@ G（ChatGPT）
 - [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   地球直接冷却を、雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定という自然冷却カスケードの回復として定義する中核フレームワーク。
 
+- [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 森林荒廃、餌不足、里山境界の崩壊、生態系変位として、人間と野生動物の衝突を整理する関連論考。
+
 - [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---
