@@ -514,6 +514,12 @@ This repository is part of the broader Natural Supplementation Science and Earth
 - [Planetary Heat and Circulation OS — Japanese README](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
+### Circular City Concept
+
+- [Circular City Concept: A Retrofit Model for Water, Heat, Energy, Food, and Organic-Matter Circulation](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [Japanese README: 循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
+
 ---
 
 ## License
