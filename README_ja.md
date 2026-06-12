@@ -525,9 +525,10 @@ G（ChatGPT）
 
 ### 都市・文明OS
 
-- [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 - [都市・文明OS（日本語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Urban–Civilization OS（アラビア語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
+- [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 
 ### 自然・微生物OS
 
