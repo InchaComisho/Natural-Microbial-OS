@@ -461,6 +461,17 @@ CO₂排出削減は当然重要です。
 
 ---
 
+## 関連リンク
+
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+この因果構造モデルは、温暖化をCO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植物プランクトン、海洋・大気循環など、地球本来の自然冷却機能の弱体化・喪失と接続して整理する。
+
 ## 著者
 
 マスター / inchacomisho / inchacomusho
@@ -552,8 +563,8 @@ G（ChatGPT）
 
 ## ライセンス
 
-CC BY-SA 4.0
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0
+Creative Commons Attribution 4.0 International
 
 ## キーワード
 
