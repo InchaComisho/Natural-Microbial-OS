@@ -1,5 +1,7 @@
 # Natural–Microbial OS
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Invisible Foundation That Supports Civilization
 
 **Natural–Microbial OS is a conceptual framework that treats forests, soil, microorganisms, water, nutrients, and carbon cycles as the foundational operating system of civilization. Food security, water stability, climate resilience, agriculture, cities, and forests all depend on invisible microbial networks beneath our feet.**
