@@ -519,11 +519,8 @@ G（ChatGPT）
   地球直接冷却を、雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定という自然冷却カスケードの回復として定義する中核フレームワーク。
 
 - [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、森林床、腐葉土、おがくず、木材チップ、キノコ、土壌再生、生物多様性、山林資産化を扱う関連論考。
-- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 
 - [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 森林荒廃、餌不足、里山境界の崩壊、生態系変位として、人間と野生動物の衝突を整理する関連論考。
-
-- [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---
 
@@ -550,17 +547,14 @@ G（ChatGPT）
 - [都市・文明OS（日本語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
 - [Urban–Civilization OS（アラビア語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
-- [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 
 ### 自然・微生物OS
 
-- [自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
 - [自然・微生物OS（日本語版README）](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
 - [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 
 ### 惑星熱・循環OS
 
-- [惑星熱・循環OSとは何か](https://note.com/inchacomusho/n/n9992ff391394)
 - [惑星熱・循環OS（日本語版README）](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
@@ -568,7 +562,6 @@ G（ChatGPT）
 
 - [循環都市構想：既存都市を水・熱・エネルギー・食料・有機物の循環システムへ改修するモデル](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
 - [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
-- [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 
@@ -587,17 +580,11 @@ Creative Commons Attribution 4.0 International
 
 リンク
 
-都市・文明OSとは何か  
-https://note.com/inchacomusho/n/ne7ebce3dcf78
-
 都市・文明OS  
 https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md
 
 Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated  
 https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities
-
-自然・微生物OSとは何か  
-https://note.com/inchacomusho/n/n0f08276bd638
 
 自然・微生物OS  
 https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md
